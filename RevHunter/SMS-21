@@ -1,1 +1,19 @@
-sms 21
+{
+    "Aviso": true,
+    "HtmlSuport": true,
+    "MsgAviso": "<p style=\"text-align: center;\">AVISO LEIAM ⬇️</p><p style=\"text-align: left;\">🟣 VIVO - FUNCIONANDO ✅</p><p style=\"text-align: left;\">🔵 TIM - FUNCIONANDO COM SALDO EM VALIDADE ✅</p><p style=\"text-align: left;\">🔴 CLARO - FUNCIONANDO EM ALGUNS LUGARES ⚙️</p><p style=\"text-align: left;\">🟡 OI - FUNCIONANDO ✅</p><p style=\"text-align: left;\">&nbsp;</p><p><span style=\"color: #800080;\">➡️ PRESTEM ATENÇÃO NAS NOTIFICAÇÕES DO APP, ENTREM NO NOSSO CANAL OFICIAL DO TELEGRAM @REVHUNTER. QUANDO SAIR NOVIDADES IREMOS ATUALIZAR RAPIDAMENTE. 🌟</span></p><p><span style=\"color: #ff6600;\">🚨 FAZEMOS O POSSÍVEL PARA MANTER AS CONEXÕES ATUALIZADAS E FUNCIONANDO!</span></p>",
+    "Alert": false,
+    "Image": false,
+    "ImgUrl": "https://deanpola.xyz/RevHunter/img/sorteiorev.jpg",
+    "CurrentId": 4,
+    "SaveId": true,
+    "Title": "ENTRE EM NOSSO CANAL ⬇️",
+    "Text": "FAÇA PARTE DO NOSSO CANAL NO TELEGRAM",
+    "UrlSuporte": true,
+    "EnableCancel": true,
+    "SetCancelable": true,
+    "PushNotification": false,
+    "TextConfirmar": "ENTRAR",
+    "TextCancel": "FECHAR",
+    "Url": "https://t.me/RevHunter"
+}
