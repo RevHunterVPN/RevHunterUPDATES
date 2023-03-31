@@ -1,1 +1,19 @@
-SMS AQUI
+{
+    "Aviso": true,
+    "HtmlSuport": true,
+    "MsgAviso": "<p style=\"text-align: center;\">AVISO IMPORTANTE ⬇️</p><p style=\"text-align: left;\">🟣 VIVO - FUNCIONANDO ✅</p><p style=\"text-align: left;\">🔵 TIM - FUNCIONANDO COM SALDO EM VALIDADE ✅</p><p style=\"text-align: left;\">🔴 CLARO - FUNCIONANDO COM PREZÃO, FLEX & CONTROLE ATIVOS ⚙️</p><p style=\"text-align: left;\">🟡 OI - FUNCIONANDO ✅</p><p style=\"text-align: left;\">&nbsp;</p><p><span style=\"color: #FFFFFF;\">⚠️👉 PRESTE ATENÇÃO NAS NOTIFICAÇÕES DO APP. SE POSSÍVEL ENTRE NO CANAL OFICIAL DO TELEGRAM: @RevHunter</span></p><p><span style=\"color: #ff6600;\">🚨⚠️ CASO O APP PARE DE FUNCIONAR DO NADA FIQUE TRANQUILO(a) IREMOS RESOLVER, SÓ FICAR DE OLHO NAS NOTIFICAÇÕES DO APP. VC TBM PODE NOS ACOMPANHAR NO INSTAGRAM: @vpnrevhunter</span></p>",
+    "Alert": true,
+    "Image": true,
+    "ImgUrl": "https://revhuntervpn.xyz/ADS/appupdate.jpg",
+    "CurrentId": 4,
+    "SaveId": true,
+    "Title": "AVISO IMPORTANTE 👇",
+    "Text": "Caso vc use a 🟣 VIVO, é muito importante que vc verifique frequentemente se existem atualizações de Conexões no Rev Hunter. \n\n 👇 EXEMPLO NA IMAGEM 👇",
+    "UrlSuporte": false,
+    "EnableCancel": false,
+    "SetCancelable": false,
+    "PushNotification": true,
+    "TextConfirmar": "OK ✅",
+    "TextCancel": "FECHAR",
+    "Url": "https://t.me/RevHunter"
+}
