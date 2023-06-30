@@ -1,7 +1,7 @@
 {
     "Aviso": true,
     "HtmlSuport": true,
-    "MsgAviso": "<p style=\"text-align: center;\">📱 Status do App ⬇️</p><p style=\"text-align: left;\">🟣 VIVO: Funcionando, porém às vezes requer ativar e desativar o modo avião ✈️ ✅</p><p style=\"text-align: left;\">🔵 TIM: Funcionando melhor com saldo válido ✅</p><p style=\"text-align: left;\">🔴 CLARO: Funcionando com planos Prezão, Flex e Controle ⚙️</p><p style=\"text-align: left;\">🟡 OI: Funcionando ✅</p><p style=\"text-align: left;\">🟢 Fluke: Funcionando ✅</p><p style=\"text-align: left;\">&nbsp;</p><p><span style=\"color: #FFFFFF;\">⚠️👉 Canal oficial do app no Telegram: @RevHunter</span></p><p><span style=\"color: #ff6600;\">💜🔥 Ajude o REV HUNTER a se manter ativo, compartilhe o aplicativo. A equipe do REV agradece seu apoio! <3</span></p>",
+    "MsgAviso": "<p style=\"text-align: center;\">📱 Status do App ⬇️</p><p style=\"text-align: left;\">🟣 VIVO: Funcionando, porém às vezes requer ativar e desativar o modo avião ✈️ ✅</p><p style=\"text-align: left;\">🔵 TIM: Funcionando melhor com saldo válido ✅</p><p style=\"text-align: left;\">🔴 CLARO: Funcionando com planos Prezão, Flex e Controle ⚙️</p><p style=\"text-align: left;\">🟡 OI: Funcionando ✅</p><p style=\"text-align: left;\">🟢 FLUKE: Funcionando ✅</p><p style=\"text-align: left;\">&nbsp;</p><p><span style=\"color: #FFFFFF;\">⚠️👉 Canal oficial do app no Telegram: @RevHunter</span></p><p><span style=\"color: #ff6600;\">💜🔥 Ajude o REV HUNTER a se manter ativo, compartilhe o aplicativo. A equipe do REV agradece seu apoio! <3</span></p>",
     "Alert": true,
     "Image": false,
     "ImgUrl": "https://revhuntervpn.xyz/ADS/appupdate.jpg",
