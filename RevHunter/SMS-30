@@ -1,0 +1,19 @@
+{
+    "Aviso": true,
+    "HtmlSuport": true,
+    "MsgAviso": "<p style=\"text-align: center;\">Canal Oficial Telegram: @RevHunter</p></span></p>",
+    "Alert": true,
+    "Image": false,
+    "ImgUrl": "https://revhuntervpn.xyz/ADS/appupdate.jpg",
+    "CurrentId": 4,
+    "SaveId": true,
+    "Title": "⚠️ ATENÇÃO USUÁRIO",
+    "Text": "Você pode acompanhar o App no Telegram: @RevHunter",
+    "UrlSuporte": false,
+    "EnableCancel": false,
+    "SetCancelable": false,
+    "PushNotification": true,
+    "TextConfirmar": "OK ✅",
+    "TextCancel": "FECHAR",
+    "Url": "https://t.me/RevHunter"
+}
