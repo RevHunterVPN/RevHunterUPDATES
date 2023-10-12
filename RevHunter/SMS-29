@@ -7,13 +7,13 @@
     "ImgUrl": "https://revhuntervpn.xyz/ADS/appupdate.jpg",
     "CurrentId": 4,
     "SaveId": true,
-    "Title": "⚠️ ATENÇÃO USUÁRIO",
-    "Text": "Você pode acompanhar o App no Telegram: @RevHunter",
-    "UrlSuporte": false,
-    "EnableCancel": false,
-    "SetCancelable": false,
+    "Title": "💜 ATENÇÃO",
+    "Text": "🔵 Postei um tutorial de como se conectar na TIM SALDO VÁLIDO, vale para expirado tbm, deseja ver?",
+    "UrlSuporte": true,
+    "EnableCancel": true,
+    "SetCancelable": true,
     "PushNotification": true,
-    "TextConfirmar": "OK ✅",
+    "TextConfirmar": "SIM",
     "TextCancel": "FECHAR",
-    "Url": "https://t.me/RevHunter"
+    "Url": "https://streamable.com/xwbx2k"
 }
