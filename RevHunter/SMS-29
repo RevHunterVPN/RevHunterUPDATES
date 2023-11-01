@@ -5,15 +5,15 @@
     "Alert": true,
     "Image": false,
     "ImgUrl": "https://revhuntervpn.net/ADS/appupdate.jpg",
-    "CurrentId": 5,
+    "CurrentId": 6,
     "SaveId": true,
-    "Title": "⚠️ ATENÇÃO!",
-    "Text": "🔵 Postei um tutorial de como se conectar na TIM SALDO VÁLIDO, vale para TIM SALDO EXPIRADO tbm, deseja ver?\n\n🟣 Tem tutorial para VIVO tbm. Caso queira ver aperte em 'SIM'",
+    "Title": "Atualização Disponível na Play Store 💜",
+    "Text": "✅ [V.30] - Versão: 30\n\n⚠️ Após atualizar, é recomendável limpar o cache e os dados do aplicativo caso ele apresente erros.\n\n• Melhorias e correções de erros",
     "UrlSuporte": true,
     "EnableCancel": true,
     "SetCancelable": true,
     "PushNotification": true,
-    "TextConfirmar": "SIM",
+    "TextConfirmar": "ATUALIZAR",
     "TextCancel": "FECHAR",
-    "Url": "https://app.revhuntervpn.net/videos/"
+    "Url": "https://play.google.com/store/apps/details?id=com.hunter.net"
 }
