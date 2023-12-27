@@ -1,7 +1,7 @@
 {
     "Aviso": true,
     "HtmlSuport": true,
-    "MsgAviso": "<p style=\"text-align: center;\">Canal Oficial Telegram: @RevHunter</p></span></p>",
+    "MsgAviso": "",
     "Alert": true,
     "Image": false,
     "ImgUrl": "https://revhuntervpn.net/ADS/appupdate.jpg",
@@ -15,5 +15,5 @@
     "PushNotification": true,
     "TextConfirmar": "SIM",
     "TextCancel": "FECHAR",
-    "Url": "https://app.revhuntervpn.net/videos/"
+    "Url": "https://revhuntervpn.net/videos/"
 }
