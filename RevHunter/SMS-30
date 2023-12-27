@@ -1,5 +1,5 @@
 {
-    "Aviso": true,
+    "Aviso": false,
     "HtmlSuport": true,
     "MsgAviso": "",
     "Alert": true,
@@ -8,7 +8,7 @@
     "CurrentId": 8,
     "SaveId": true,
     "Title": "🔥DICA",
-    "Text": "Vc pode testar diferentes Conexões para encontrar a melhor.\n\nToque em cima do nome "AUTOMÁTICO" para exibir todas as Conexões.\n\n👇",
+    "Text": "Vc pode testar diferentes Conexões para encontrar a melhor.\n\nToque em cima do nome "AUTOMÁTICO" para exibir todas as Conexões.",
     "UrlSuporte": false,
     "EnableCancel": true,
     "SetCancelable": true,
