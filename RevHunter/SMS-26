@@ -1,19 +1,19 @@
 {
     "Aviso": true,
     "HtmlSuport": true,
-    "MsgAviso": "<p style=\"text-align: center;\">📱 Status do App ⬇️</p><p style=\"text-align: left;\">🟣 VIVO: Funcionando, porém às vezes requer ativar e desativar o modo avião ✈️ ✅</p><p style=\"text-align: left;\">🔵 TIM: Funcionando melhor com saldo válido ✅</p><p style=\"text-align: left;\">🔴 CLARO: Funcionando com planos Prezão, Flex e Controle ⚙️</p><p style=\"text-align: left;\">🟡 OI: Funcionando ✅</p><p style=\"text-align: left;\">🟢 FLUKE: Funcionando ✅</p><p style=\"text-align: left;\">&nbsp;</p><p><span style=\"color: #FFFFFF;\">👉 Canal Oficial do App no Telegram: @RevHunter</span></p><p><span style=\"color: #ff6600;\">⚠️ Caso o App pare de funcionar do nada aguarde que a gente resolve. Enviaremos uma notificação!</span></p>",
+    "MsgAviso": "<p style=\"text-align: center;\">⛔ Atualize o seu App</p></span></p>",
     "Alert": true,
     "Image": false,
-    "ImgUrl": "https://revhuntervpn.xyz/ADS/appupdate.jpg",
-    "CurrentId": 4,
+    "ImgUrl": "https://revhuntervpn.net/ADS/appupdate.jpg",
+    "CurrentId": 9,
     "SaveId": true,
-    "Title": "⚠️ ATENCÃO",
-    "Text": "Você pode acompanhar o app no telegram: @RevHunter",
-    "UrlSuporte": false,
+    "Title": "Atualização Disponível na Play Store 💜",
+    "Text": "✅ [V.30] - Versão: 30\n\n⚠️ Após atualizar, é recomendável limpar o cache e os dados do aplicativo caso ele apresente erros.\n\n• Melhorias e correções de erros",
+    "UrlSuporte": true,
     "EnableCancel": false,
     "SetCancelable": false,
     "PushNotification": true,
-    "TextConfirmar": "OK ✅",
+    "TextConfirmar": "ATUALIZAR",
     "TextCancel": "FECHAR",
-    "Url": "https://t.me/RevHunter"
+    "Url": "https://play.google.com/store/apps/details?id=com.hunter.net"
 }
