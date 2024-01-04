@@ -3,17 +3,17 @@
     "HtmlSuport": true,
     "MsgAviso": "",
     "Alert": true,
-    "Image": true,
+    "Image": false,
     "ImgUrl": "https://revhuntervpn.net/firebase/happybirthday.jpg",
-    "CurrentId": 11,
+    "CurrentId": 12,
     "SaveId": true,
-    "Title": "🎂 Feliz Aniversário!",
-    "Text": "Sim, há exatos 2 anos o Rev foi lançado e continua funcionando até hoje. Claro que tivemos seus altos e baixos. Mas o importante continuou, oferecer internet gratuitamente! 💜\n\n⚡️ Desafiamos você a comentar sobre algum dia ou situação em que o Rev te salvou: 👇",
+    "Title": "🤔 Precisa de Tutoriais?",
+    "Text": "Se você está procurando Tutoriais de Como Usar o App, clica no botão 'VER' para acessar a Página de Tutoriais! 💜\n\n✅ Página: https://revhuntervpn.net/videos",
     "UrlSuporte": true,
     "EnableCancel": true,
     "SetCancelable": true,
     "PushNotification": true,
-    "TextConfirmar": "🎈 COMENTAR",
+    "TextConfirmar": "VER",
     "TextCancel": "FECHAR",
-    "Url": "https://play.google.com/store/apps/details?id=com.hunter.net"
+    "Url": "https://revhuntervpn.net/videos/"
 }
