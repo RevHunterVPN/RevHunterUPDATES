@@ -4,16 +4,16 @@
     "MsgAviso": "",
     "Alert": true,
     "Image": false,
-    "ImgUrl": "https://revhuntervpn.net/firebase/happybirthday.jpg",
-    "CurrentId": 12,
+    "ImgUrl": "https://revhuntervpn.net/firebase/5MREVSEMFUNDO.png",
+    "CurrentId": 13,
     "SaveId": true,
-    "Title": "🤔 Precisa de Tutoriais?",
-    "Text": "Se você está procurando Tutoriais de Como Usar o App, clica no botão 'VER' para acessar a Página de Tutoriais! 💜\n\n✅ Página: https://revhuntervpn.net/videos",
+    "Title": "🥂 5M DOWNLOADS 💜",
+    "Text": "🥺 Atingir esse marco é muito importante para nos. O Rev Hunter veio para ajudar pessoas que precisam de internet diariamente!\n\n💜 Pedimos de Coração que compartilhe o Rev Hunter com qualquer pessoa que precise. Contamos com você para nos ajudar a prover internet para mais pessoas!\n\n🤝🤩 Fique tranquilo(a), a medida que o App for conectando mais pessoas iremos aprimorar todos os Servidores!",
     "UrlSuporte": true,
     "EnableCancel": true,
     "SetCancelable": true,
     "PushNotification": true,
-    "TextConfirmar": "VER",
+    "TextConfirmar": "COMPARTILHAR",
     "TextCancel": "FECHAR",
-    "Url": "https://revhuntervpn.net/videos/"
+    "Url": "https://revhuntervpn.net/compartilhar/"
 }
