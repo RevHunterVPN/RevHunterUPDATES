@@ -7,13 +7,13 @@
     "ImgUrl": "https://revhuntervpn.net/firebase/5MREVSEMFUNDO.png",
     "CurrentId": 14,
     "SaveId": true,
-    "Title": "👇 IMPORTANTE",
-    "Text": "🥺 Atingimos 5M de Downloads. Alcançar esse objetivo é muito importante para nós. O Rev Hunter está aqui para ajudar aqueles que precisam de internet diariamente!\n\n💜 Pedimos de coração que compartilhe o Rev Hunter para quem precisa. Contamos com você para expandir nosso alcance e fornecer internet a mais pessoas!\n\n🤝😊 Fique tranquilo(a), à medida que o app conecta mais pessoas, aprimoraremos constantemente nossos super servidores!",
+    "Title": "⬇️ TUTORIAIS",
+    "Text": "Se você está procurando tutoriais de como usar o Rev Hunter, clica no botão VER para acessar os tutoriais!\n\n👇",
     "UrlSuporte": true,
     "EnableCancel": true,
     "SetCancelable": true,
     "PushNotification": true,
-    "TextConfirmar": "COMPARTILHAR",
+    "TextConfirmar": "VER",
     "TextCancel": "FECHAR",
-    "Url": "https://revhuntervpn.net/compartilhar/"
+    "Url": "https://revhuntervpn.net/videos/"
 }
