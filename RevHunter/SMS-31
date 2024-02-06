@@ -1,8 +1,8 @@
 {
-    "Aviso": true,
+    "Aviso": false,
     "HtmlSuport": true,
     "MsgAviso": "",
-    "Alert": true,
+    "Alert": false,
     "Image": false,
     "ImgUrl": "https://revhuntervpn.net/firebase/5MREVSEMFUNDO.png",
     "CurrentId": 14,
