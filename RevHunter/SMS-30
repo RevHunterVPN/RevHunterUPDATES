@@ -5,15 +5,15 @@
     "Alert": true,
     "Image": false,
     "ImgUrl": "https://revhuntervpn.net/firebase/5MREVSEMFUNDO.png",
-    "CurrentId": 14,
+    "CurrentId": 15,
     "SaveId": true,
-    "Title": "⬇️ TUTORIAIS",
-    "Text": "Se você está procurando tutoriais de como usar o Rev Hunter, clique no botão VER para acessar os tutoriais!\n\nhttps://revhuntervpn.net/videos 👇",
+    "Title": "🚨 ATUALIZAÇÃO DISPONÍVEL",
+    "Text": "Atualização Obrigatória Disponível na Play Store\n\n✅Versão: 32\n\n⚠️ Após atualizar, é recomendável limpar o cache e os dados do aplicativo caso ele apresente erros.",
     "UrlSuporte": true,
     "EnableCancel": true,
     "SetCancelable": true,
     "PushNotification": true,
-    "TextConfirmar": "VER",
+    "TextConfirmar": "ATUALIZAR",
     "TextCancel": "FECHAR",
-    "Url": "https://revhuntervpn.net/videos/"
+    "Url": "https://play.google.com/store/apps/details?id=com.hunter.net"
 }
