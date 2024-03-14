@@ -1,4 +1,3 @@
-# Domínio principal
 revservers.online
 # Server01
 209.14.70.51
