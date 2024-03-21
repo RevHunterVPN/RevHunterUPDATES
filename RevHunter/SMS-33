@@ -5,15 +5,15 @@
     "Alert": true,
     "Image": false,
     "ImgUrl": "https://revhuntervpn.net/firebase/5MREVSEMFUNDO.png",
-    "CurrentId": 15,
+    "CurrentId": 18,
     "SaveId": true,
-    "Title": "👇 IMPORTANTE",
-    "Text": "ℹ️ A atualização que acabou de sair vai passar por uma análise, se tudo ocorrer bem os anúncios para ganhar tempo voltarão a aparecer normalmente.\n\nDemora de 1-5 dias para ser analisado. Tenho 99% de certeza que tudo vai dar certo. Infelizmente problemas acontecem. Peço que aguardem.\n\nVou avisar quando estiver tudo certo!",
-    "UrlSuporte": false,
+    "Title": "🚨 ATUALIZAÇÃO DISPONÍVEL",
+    "Text": "Atualização Obrigatória Disponível na Play Store\n\n✅ Versão: 34\n\n• Suporte ao Android 14\n• Melhorias e correções de bugs\n\n⚠️ Após atualizar, é recomendável limpar o cache e os dados do aplicativo caso ele apresente erros.",
+    "UrlSuporte": true,
     "EnableCancel": true,
     "SetCancelable": true,
     "PushNotification": true,
-    "TextConfirmar": "OK",
+    "TextConfirmar": "ATUALIZAR",
     "TextCancel": "FECHAR",
-    "Url": "https://revhuntervpn.net/videos/"
+    "Url": "https://play.google.com/store/apps/details?id=com.hunter.net"
 }
