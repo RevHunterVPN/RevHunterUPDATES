@@ -8,12 +8,12 @@
     "CurrentId": 17,
     "SaveId": true,
     "Title": "👇 TUTORIAIS",
-    "Text": "ℹ️ Se precisa ver algum tutorial de como usar o app clique no botão 'SIM'\n\n✅ Site: https://revhuntertutoriais.online/\n\n[Se essa mensagem estiver aparecendo várias vezes aperte no 'SIM' e volte.]",
+    "Text": "💜 Bem-vindo(a) ao Rev!\n\nSe você quer ver algum tutorial de como usar o app clique no botão 'SIM'\n\n✅ Site: https://revhuntervpn.net/tutoriais\n\n[Se essa mensagem estiver aparecendo várias vezes aperte no 'SIM' e volte.]",
     "UrlSuporte": true,
     "EnableCancel": true,
     "SetCancelable": true,
     "PushNotification": false,
     "TextConfirmar": "SIM",
     "TextCancel": "FECHAR",
-    "Url": "https://revhuntertutoriais.online/"
+    "Url": "https://revhuntervpn.net/tutoriais"
 }
