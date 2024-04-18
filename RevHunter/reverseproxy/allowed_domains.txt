@@ -1,6 +1,6 @@
 revservers.online
 # Server01
-45.140.193.41
+149.78.185.138
 # Server02
 209.14.70.219
 # Server03
@@ -24,7 +24,7 @@ revservers.online
 # Server12
 209.14.70.220
 # Server13
-149.78.185.138
+45.140.193.41
 # Server14
 149.78.185.143
 # Server15
