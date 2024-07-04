@@ -5,15 +5,15 @@
     "Alert": true,
     "Image": false,
     "ImgUrl": "https://revhuntervpn.net/firebase/5MREVSEMFUNDO.png",
-    "CurrentId": 20,
+    "CurrentId": 22,
     "SaveId": true,
-    "Title": "⚠️ ATUALIZAÇÃO COM PROBLEMAS 👇",
-    "Text": "😐 Essa versão 36 está com erros que impossibilitam o uso do app.\n\Identificamos o erro e enviamos uma nova atualização para a Play Store, deve ficar disponível amanhã ou talvez hoje ainda.\n\nPedimos desculpas pelo ocorrido. Te avisaremos por meio das notificações quando for possível atualizar o Rev!\n\nVocê pode acompanhar as informações em nosso canal oficial do telegram: @RevHunter",
+    "Title": "⚠️ATUALIZE O REV⚠️",
+    "Text": "😐 Essa versão 36 está com erros que impossibilitam o uso do app.\n\Identificamos o erro e enviamos uma nova atualização para a Play Store que já está disponível para vc atualizar.\n\nClique no botão abaixo 'ATUALIZAR' para atualizar o Rev para uma versão estável e funcional!\n👇",
     "UrlSuporte": true,
-    "EnableCancel": true,
-    "SetCancelable": true,
+    "EnableCancel": false,
+    "SetCancelable": false,
     "PushNotification": false,
-    "TextConfirmar": "VER CANAL",
+    "TextConfirmar": "ATUALIZAR REV",
     "TextCancel": "FECHAR",
-    "Url": "https://revhuntervpn.net/tg"
+    "Url": "https://play.google.com/store/apps/details?id=com.hunter.net"
 }
