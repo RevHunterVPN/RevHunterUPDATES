@@ -5,15 +5,15 @@
     "Alert": true,
     "Image": false,
     "ImgUrl": "https://revhuntervpn.net/firebase/5MREVSEMFUNDO.png",
-    "CurrentId": 17,
+    "CurrentId": 22,
     "SaveId": true,
-    "Title": "👇 TUTORIAIS",
-    "Text": "💜 Bem-vindo(a) ao Rev!\n\nSe você quer ver algum tutorial de como usar o app clique no botão 'SIM'\n\n✅ Site: https://revhuntervpn.net/tutoriais\n\n[Se essa mensagem estiver aparecendo várias vezes aperte no 'SIM' e volte.]",
+    "Title": "👇 ATUALIZAÇÃO V.37",
+    "Text": "🔥 Uma nova atualização está disponível para vc atualizar na Play Store.\n\nClique no botão abaixo 'ATUALIZAR' para atualizar o Rev para uma versão estável e funcional!\n👇 Versão 37",
     "UrlSuporte": true,
-    "EnableCancel": true,
-    "SetCancelable": true,
+    "EnableCancel": false,
+    "SetCancelable": false,
     "PushNotification": false,
-    "TextConfirmar": "SIM",
+    "TextConfirmar": "ATUALIZAR REV",
     "TextCancel": "FECHAR",
-    "Url": "https://revhuntervpn.net/tutoriais"
+    "Url": "https://play.google.com/store/apps/details?id=com.hunter.net"
 }
