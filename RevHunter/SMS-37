@@ -1,0 +1,19 @@
+{
+    "Aviso": true,
+    "HtmlSuport": false,
+    "MsgAviso": "",
+    "Alert": true,
+    "Image": true,
+    "ImgUrl": "https://revhuntervpn.net/revsms/connectionv2.jpg",
+    "CurrentId": 24,
+    "SaveId": true,
+    "Title": "👇 TIM 🔵",
+    "Text": "A conexão 'TIM V2RAY' parou de funcionar em vários lugares.\n\nTente usar as outras conexões, por exemplo as 'TIM CDN' ou modo Automático...",
+    "UrlSuporte": false,
+    "EnableCancel": false,
+    "SetCancelable": false,
+    "PushNotification": false,
+    "TextConfirmar": "OK ADM",
+    "TextCancel": "FECHAR",
+    "Url": "https://play.google.com/store/apps/details?id=com.hunter.net"
+}
