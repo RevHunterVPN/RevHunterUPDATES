@@ -4,16 +4,16 @@
     "MsgAviso": "",
     "Alert": true,
     "Image": true,
-    "ImgUrl": "https://revhuntervpn.net/revsms/connectionv2.jpg",
-    "CurrentId": 24,
+    "ImgUrl": "https://revhuntervpn.net/revsms/hsms.png",
+    "CurrentId": 25,
     "SaveId": true,
-    "Title": "👇 TIM 🔵",
-    "Text": "A conexão 'TIM V2RAY' parou de funcionar em vários lugares.\n\nTente usar as outras conexões, por exemplo as 'TIM CDN' ou modo Automático...",
+    "Title": "👇 NOVIDADES",
+    "Text": "💬 O Hunter SMS é o nosso novo serviço disponível!\n📲 Com esse serviço você consegue gerar números virtuais para usar e receber SMS de diversos apps ou serviços.\n\n💡 Exemplo de uso: Quando vc se cadastra no WhatsApp, pede o telefone para receber um SMS e criar a conta.\nUsando o nosso serviço você consegue gerar um número pra usar no WhatsApp e conseguir criar a sua conta!\n\n🔥 Caso você tenha se interessado e queira conhecer o nosso novo serviço:",
     "UrlSuporte": false,
     "EnableCancel": false,
     "SetCancelable": false,
     "PushNotification": false,
-    "TextConfirmar": "OK ADM",
+    "TextConfirmar": "SAIBA MAIS",
     "TextCancel": "FECHAR",
-    "Url": "https://play.google.com/store/apps/details?id=com.hunter.net"
+    "Url": "https://revhuntervpn.net/hsms"
 }
