@@ -1,0 +1,19 @@
+{
+    "Aviso": true,
+    "HtmlSuport": false,
+    "MsgAviso": "",
+    "Alert": true,
+    "Image": true,
+    "ImgUrl": "https://revhuntervpn.net/firebase/IMG_20241113_160537_605.jpg",
+    "CurrentId": 32,
+    "SaveId": true,
+    "Title": "👇 VIVO Todos DDDs",
+    "Text": "🟣 Conexão VIVO adicionada:\n\n✅ VIVO 01 (V2RAY|TODOS DDDs)\n\n⚡ Em fase de testes, use enquanto está funcionando...",
+    "UrlSuporte": false,
+    "EnableCancel": false,
+    "SetCancelable": false,
+    "PushNotification": true,
+    "TextConfirmar": "OK",
+    "TextCancel": "FECHAR",
+    "Url": "https://revhuntervpn.net/"
+}
