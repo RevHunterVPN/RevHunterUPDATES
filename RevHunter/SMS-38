@@ -1,9 +1,9 @@
 {
-    "Aviso": false,
+    "Aviso": true,
     "HtmlSuport": false,
     "MsgAviso": "",
-    "Alert": true,
-    "Image": true,
+    "Alert": false,
+    "Image": false,
     "ImgUrl": "https://revhuntervpn.net/firebase/IMG_20241113_160537_605.jpg",
     "CurrentId": 33,
     "SaveId": true,
