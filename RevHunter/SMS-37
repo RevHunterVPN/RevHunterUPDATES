@@ -1,19 +1,19 @@
 {
     "Aviso": true,
     "HtmlSuport": false,
-    "MsgAviso": "",
-    "Alert": false,
-    "Image": false,
-    "ImgUrl": "https://revhuntervpn.net/revsms/post1.jpg",
-    "CurrentId": 31,
+    "MsgAviso": "null",
+    "Alert": true,
+    "Image": true,
+    "ImgUrl": "https://revhuntervpn.net/firebase/photo_2025-01-14_23-28-58.jpg",
+    "CurrentId": 35,
     "SaveId": true,
-    "Title": "👇 TIM não Funciona? 🔵",
-    "Text": "Sua TIM não funciona no modo AUTOMÁTICO?\n\n🔥 Tente usar as Conexões V2RAY e CDN que estão circuladas na foto abaixo...",
+    "Title": "👇 TIM FUNCIONANDO 🔵",
+    "Text": "Tente usar as opções TIM 02 a TIM 08 caso o automático não funcione.\nDurante a madrugada essas opções geralmente não funcionam, porém durante o dia costuma funcionar normalmente.",
     "UrlSuporte": false,
     "EnableCancel": false,
     "SetCancelable": false,
-    "PushNotification": false,
+    "PushNotification": true,
     "TextConfirmar": "OK",
     "TextCancel": "FECHAR",
-    "Url": "https://revhuntervpn.net/hsms"
+    "Url": "https://revhuntervpn.net/"
 }
