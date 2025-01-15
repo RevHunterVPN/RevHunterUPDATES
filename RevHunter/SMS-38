@@ -1,11 +1,11 @@
 {
     "Aviso": true,
     "HtmlSuport": false,
-    "MsgAviso": "",
+    "MsgAviso": "null",
     "Alert": true,
     "Image": true,
     "ImgUrl": "https://revhuntervpn.net/firebase/photo_2025-01-14_23-28-58.jpg",
-    "CurrentId": 34,
+    "CurrentId": 35,
     "SaveId": true,
     "Title": "👇 TIM FUNCIONANDO 🔵",
     "Text": "Tente usar as opções TIM 02 a TIM 08 caso o automático não funcione.\nDurante a madrugada essas opções geralmente não funcionam, porém durante o dia costuma funcionar normalmente.",
