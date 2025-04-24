@@ -1,0 +1,19 @@
+{
+    "Aviso": false,
+    "HtmlSuport": false,
+    "MsgAviso": "null",
+    "Alert": false,
+    "Image": false,
+    "ImgUrl": "https://revhuntervpn.net/firebase/photo_2025-01-14_23-28-58.jpg",
+    "CurrentId": 1,
+    "SaveId": true,
+    "Title": "👇 TIM FUNCIONANDO 🔵",
+    "Text": "Comece testando todas as conexões da TIM na ordem: 01, 02, 03, 04 e assim por diante...\n\nAbra a lista de conexões para ver todas as opções.",
+    "UrlSuporte": false,
+    "EnableCancel": false,
+    "SetCancelable": false,
+    "PushNotification": false,
+    "TextConfirmar": "OK",
+    "TextCancel": "FECHAR",
+    "Url": "https://revhuntervpn.net/"
+}
