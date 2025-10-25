@@ -4,7 +4,7 @@
     "MsgAviso": "null",
     "Alert": true,
     "Image": true,
-    "ImgUrl": "https://revhuntervpn.net/firebase/Picsart_25-06-01_01-42-49-758.jpg",
+    "ImgUrl": "https://revhuntervpn.com/firebase/Picsart_25-06-01_01-42-49-758.jpg",
     "CurrentId": 7,
     "SaveId": true,
     "Title": "👇 DICA",
@@ -15,5 +15,5 @@
     "PushNotification": false,
     "TextConfirmar": "OK",
     "TextCancel": "FECHAR",
-    "Url": "https://revhuntervpn.net/"
+    "Url": "https://revhuntervpn.com/"
 }
