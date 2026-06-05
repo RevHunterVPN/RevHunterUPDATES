@@ -5,15 +5,15 @@
     "Alert": true,
     "Image": true,
     "ImgUrl": "https://revhuntervpn.com/firebase/Picsart_25-06-01_01-42-49-758.jpg",
-    "CurrentId": 12,
+    "CurrentId": 13,
     "SaveId": true,
     "Title": "💡 <b>DICA IMPORTANTE!</b>",
-    "Text": "💜 <b>Sempre que o Rev é atualizado, algumas conexões podem mudar de número (posição)</b>. Por isso, é importante que você teste novamente as conexões para encontrar a sua preferida.<br><br>🚀 Clique onde a seta indica na foto e abra a lista de conexões para testar...",
+    "Text": "💜 Sempre que o <b>Rev</b> é atualizado, a <b>ordem das conexões pode mudar de posição</b>.<br><br>🚀 Por isso, vale a pena <b>testar novamente</b> para encontrar a que funciona melhor para você.<br><br>👉 É só <b>tocar onde a seta aponta</b> na imagem para abrir a lista de conexões e começar a testar.",
     "UrlSuporte": false,
     "EnableCancel": false,
     "SetCancelable": false,
     "PushNotification": false,
-    "TextConfirmar": "OK",
+    "TextConfirmar": "OK 👍",
     "TextCancel": "FECHAR",
     "Url": "https://revhuntervpn.com"
 }
