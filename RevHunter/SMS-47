@@ -1,0 +1,19 @@
+{
+    "Aviso": false,
+    "HtmlSuport": false,
+    "MsgAviso": null,
+    "Alert": false,
+    "Image": false,
+    "ImgUrl": "null",
+    "CurrentId": 1,
+    "SaveId": true,
+    "Title": "null",
+    "Text": "null",
+    "UrlSuporte": false,
+    "EnableCancel": false,
+    "SetCancelable": false,
+    "PushNotification": false,
+    "TextConfirmar": "null",
+    "TextCancel": "null",
+    "Url": "https://revhuntervpn.com/"
+}
