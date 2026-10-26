@@ -5,15 +5,15 @@
     "Alert": true,
     "Image": false,
     "ImgUrl": "null",
-    "CurrentId": 7,
+    "CurrentId": 9,
     "SaveId": true,
-    "Title": "<b>💜 ATENÇÃO!</b>",
-    "Text": "🚀 <b>Estamos realizando alguns ajustes no Rev.<br><br>✅ Para evitar possíveis problemas de funcionamento, mantenha o Google Play Services atualizado.<br><br>👇 Clique no botão para verificar se há alguma atualização.</b>",
+    "Title": "<b>💜 NOVA ATUALIZAÇÃO</b>",
+    "Text": "🚀 <b>Uma nova versão do Rev está disponível na Play Store.<br><br>⚠️ ATUALIZAÇÃO OBRIGATÓRIA!<br><br>⏳ A partir de 10/11, essa versão será desativada e deixará de funcionar.<br><br>💜 Atualize o mais rápido possível e não perca acesso ao Rev.</b>",
     "UrlSuporte": true,
     "EnableCancel": true,
     "SetCancelable": true,
     "PushNotification": false,
-    "TextConfirmar": "VERIFICAR",
-    "TextCancel": "FECHAR",
-    "Url": "https://play.google.com/store/apps/details?id=com.google.android.gms"
+    "TextConfirmar": "ATUALIZAR",
+    "TextCancel": "DEPOIS",
+    "Url": "https://play.google.com/store/apps/details?id=com.hunter.net"
 }
